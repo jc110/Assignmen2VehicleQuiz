@@ -1,0 +1,45 @@
+Introduction: Vehicle Guessing Game
+------------------------------------
+
+Our games making sound of different vehicle.
+
+Language: Java using android studio
+-----------------------------------
+
+Main Activity
+------------
+Use cases for Guessing Game
+1. Play button should make sound when user click
+
+2. Display and images of Car Guessing game
+
+3. Setting wheel icon should navigate to settings page
+
+4. 20 images needs to be stored under repository
+
+5. 10 images user should be randomly picked with the
+   use of 4 buttons
+
+6.  Car Sound configuration (Included different vehicle sounds)
+------------------------------
+6.1 User make wrong guess selected button should be disapperared
+6.2 Sound should be appeard possible appropriate sound of car
+6.3 Toast should pop uo that says"wrong!"
+6.4 When user makes correct guess button should be animated (Shake or bounce)
+6.5 Display a score of the game as a dialog box
+
+7 After the user completes the game, return them back to the Main activity page
+
+References
+----------
+
+Sounds documentation: https://developer.android.com/guide/topics/media/mediaplayer.html
+
+
+What to Submit:
+---------------
+
+1. Powerpoint with video
+2. Screen shots
+3. Github URL
+4. pseudocode
